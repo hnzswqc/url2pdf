@@ -1,0 +1,2 @@
+phantomjs ¸÷ÖÖ°æ±¾jar
+http://npm.taobao.org/mirrors/phantomjs
